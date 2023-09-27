@@ -1,5 +1,5 @@
 # Madrid_Airbnb_Price
-Modelo predictivo para una renta Boston por medio de Airbnb
+Modelo predictivo para una renta en Madrid por medio de Airbnb
 
 # Integranten del equipo 
 
